@@ -1,3 +1,3 @@
-//1 - Retorne a quantidade de documentos inseridos na coleção produtos
+// 1 - Retorne a quantidade de documentos inseridos na coleção produtos
 
 db.produtos.countDocuments({});
